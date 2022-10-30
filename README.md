@@ -2,6 +2,7 @@
 
 Little app to practice and learn VueJS.
 It's an application that you can search the choosed movie or tv show and look the details, pretty simple just to practice the use of apis.
+The app perform better in mobile view.
 
 Used VueJS and scss to style.
 
